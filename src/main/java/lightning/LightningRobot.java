@@ -1,4 +1,4 @@
-package frc.lightning;
+package lightning;
 
 import edu.wpi.first.wpilibj.TimedRobot;
 import edu.wpi.first.wpilibj.Timer;
@@ -7,13 +7,13 @@ import edu.wpi.first.wpilibj2.command.CommandScheduler;
 import edu.wpi.first.wpilibj2.command.SequentialCommandGroup;
 import edu.wpi.first.wpilibj.shuffleboard.Shuffleboard;
 import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
-import frc.lightning.commands.DashboardWaitCommand;
-import frc.lightning.fault.FaultCode;
-import frc.lightning.fault.FaultMonitor;
-import frc.lightning.fault.TimedFaultMonitor;
-import frc.lightning.fault.FaultCode.Codes;
-import frc.lightning.logging.DataLogger;
-import frc.lightning.testing.SystemTestCommand;
+import lightning.commands.DashboardWaitCommand;
+import lightning.fault.FaultCode;
+import lightning.fault.FaultMonitor;
+import lightning.fault.TimedFaultMonitor;
+import lightning.fault.FaultCode.Codes;
+import lightning.logging.DataLogger;
+import lightning.testing.SystemTestCommand;
 
 import java.io.IOException;
 import java.util.Map;
@@ -22,7 +22,7 @@ import java.util.Set;
 
 /**
  * Base robot class, provides
- * {@link frc.lightning.logging.DataLogger logging},
+ * {@link lightning.logging.DataLogger logging},
  * {@link FaultMonitor fault monitoring}, and loops with varying
  * periods {@link LightningRobot#robotBackgroundPeriodic() background},
  * {@link LightningRobot#robotLowPriorityPeriodic() low}, and

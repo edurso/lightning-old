@@ -5,14 +5,14 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package frc.lightning;
+package lightning;
 
 import java.util.HashMap;
 import java.util.List;
 
 import edu.wpi.first.wpilibj2.command.Command;
-import frc.lightning.auto.Path;
-import frc.lightning.subsystems.LightningDrivetrain;
+import lightning.auto.Path;
+import lightning.subsystems.LightningDrivetrain;
 
 /**
  * This class is where the bulk of the robot should be declared. Since
