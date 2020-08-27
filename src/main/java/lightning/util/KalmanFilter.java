@@ -1,4 +1,4 @@
-package frc.lightning.util;
+package lightning.util;
 
 public class KalmanFilter implements ValueFilter {
     private double kQ;

@@ -1,4 +1,4 @@
-package frc.lightning.util;
+package lightning.util;
 
 /**
  * A Double that can be interpolated using the InterpolatingTreeMap.

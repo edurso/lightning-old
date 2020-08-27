@@ -1,7 +1,7 @@
-package frc.lightning.testing;
+package lightning.testing;
 
 import edu.wpi.first.wpilibj2.command.CommandBase;
-import frc.lightning.fault.FaultCode;
+import lightning.fault.FaultCode;
 
 abstract public class SystemTest extends CommandBase implements Comparable<SystemTest> {
     public static void register(SystemTest test) {

@@ -1,4 +1,4 @@
-package frc.lightning.util;
+package lightning.util;
 
 public class ExponentialSmoothingFilter implements ValueFilter {
     private boolean first_time = true;

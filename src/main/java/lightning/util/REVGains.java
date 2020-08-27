@@ -5,13 +5,13 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package frc.lightning.util;
+package lightning.util;
 
 import com.revrobotics.CANPIDController;
 
 import edu.wpi.first.networktables.EntryListenerFlags;
 import edu.wpi.first.wpilibj.shuffleboard.Shuffleboard;
-import frc.robot.Constants;
+import robot.Constants;
 
 /**
  * Used to set the PID gains on various REV hardware components.

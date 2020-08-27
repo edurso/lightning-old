@@ -1,7 +1,7 @@
-package frc.lightning.commands;
+package lightning.commands;
 
 import edu.wpi.first.wpilibj2.command.CommandBase;
-import frc.lightning.logging.CommandLogger;
+import lightning.logging.CommandLogger;
 
 public abstract class LoggedCommand extends CommandBase {
     protected CommandLogger logger = new CommandLogger(getClass().getSimpleName());

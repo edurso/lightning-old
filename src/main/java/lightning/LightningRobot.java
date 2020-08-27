@@ -22,7 +22,7 @@ import java.util.Set;
 
 /**
  * Base robot class, provides
- * {@link lightning.logging.DataLogger logging},
+ * {@link frc.lightning.logging.DataLogger logging},
  * {@link FaultMonitor fault monitoring}, and loops with varying
  * periods {@link LightningRobot#robotBackgroundPeriodic() background},
  * {@link LightningRobot#robotLowPriorityPeriodic() low}, and

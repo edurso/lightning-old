@@ -1,4 +1,4 @@
-package frc.lightning.testing;
+package lightning.testing;
 
 public class FakeOI {
     public double getLeftPower() {

@@ -1,4 +1,4 @@
-package frc.lightning.util;
+package lightning.util;
 
 /**
  * Interpolable is an interface used by an Interpolating Tree as the Value type. Given two end points and an

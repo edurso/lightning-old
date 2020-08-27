@@ -5,12 +5,12 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package frc.lightning.testing;
+package lightning.testing;
 
 import java.util.function.BooleanSupplier;
 
 import edu.wpi.first.wpilibj.shuffleboard.Shuffleboard;
-import frc.lightning.fault.FaultCode;
+import lightning.fault.FaultCode;
 
 /**
  * Add your docs here.

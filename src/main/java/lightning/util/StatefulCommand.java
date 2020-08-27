@@ -1,4 +1,4 @@
-package frc.lightning.util;
+package lightning.util;
 
 import edu.wpi.first.wpilibj.Timer;
 import edu.wpi.first.wpilibj2.command.CommandBase;

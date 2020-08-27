@@ -1,6 +1,6 @@
-package frc.lightning.fault;
+package lightning.fault;
 
-import frc.lightning.fault.FaultCode.Codes;
+import lightning.fault.FaultCode.Codes;
 
 public abstract class AbstractFaultMonitor {
     protected Codes code;

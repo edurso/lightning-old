@@ -1,4 +1,4 @@
-package frc.lightning.logging;
+package lightning.logging;
 
 import java.io.FileWriter;
 import java.io.IOException;

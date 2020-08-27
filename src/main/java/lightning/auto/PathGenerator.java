@@ -1,10 +1,10 @@
-package frc.lightning.auto;
+package lightning.auto;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import edu.wpi.first.wpilibj2.command.Command;
-import frc.lightning.subsystems.LightningDrivetrain;
+import lightning.subsystems.LightningDrivetrain;
 
 public abstract class PathGenerator {
 

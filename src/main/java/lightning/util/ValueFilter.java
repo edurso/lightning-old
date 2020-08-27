@@ -1,4 +1,4 @@
-package frc.lightning.util;
+package lightning.util;
 
 /**
  * Created by phurley on 12/7/16.

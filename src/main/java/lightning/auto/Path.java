@@ -1,4 +1,4 @@
-package frc.lightning.auto;
+package lightning.auto;
 
 import java.util.Arrays;
 import java.util.List;
@@ -11,7 +11,7 @@ import edu.wpi.first.wpilibj.trajectory.TrajectoryConfig;
 import edu.wpi.first.wpilibj.trajectory.TrajectoryGenerator;
 import edu.wpi.first.wpilibj2.command.Command;
 import edu.wpi.first.wpilibj2.command.RamseteCommand;
-import frc.lightning.subsystems.LightningDrivetrain;
+import lightning.subsystems.LightningDrivetrain;
 
 /**
  * Object class representing a path the robot can follow.

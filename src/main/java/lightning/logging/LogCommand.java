@@ -1,4 +1,4 @@
-package frc.lightning.logging;
+package lightning.logging;
 
 import edu.wpi.first.wpilibj2.command.CommandBase;
 

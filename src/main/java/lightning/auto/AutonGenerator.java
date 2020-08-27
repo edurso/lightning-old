@@ -1,4 +1,4 @@
-package frc.lightning.auto;
+package lightning.auto;
 
 import java.util.HashMap;
 

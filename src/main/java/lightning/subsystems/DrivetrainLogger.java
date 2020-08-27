@@ -1,7 +1,7 @@
-package frc.lightning.subsystems;
+package lightning.subsystems;
 
 import edu.wpi.first.wpilibj2.command.SubsystemBase;
-import frc.lightning.logging.DataLogger;
+import lightning.logging.DataLogger;
 
 public class DrivetrainLogger extends SubsystemBase {
     private final LightningDrivetrain drivetrain;

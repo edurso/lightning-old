@@ -1,4 +1,4 @@
-package frc.lightning.logging;
+package lightning.logging;
 
 import java.util.function.DoubleSupplier;
 

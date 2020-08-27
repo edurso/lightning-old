@@ -1,7 +1,7 @@
-package frc.lightning.testing;
+package lightning.testing;
 
 import edu.wpi.first.wpilibj.Timer;
-import frc.lightning.fault.FaultCode;
+import lightning.fault.FaultCode;
 
 public abstract class AbstractTimedSystemTest extends SystemTest {
     private double timeAtStart;

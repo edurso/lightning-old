@@ -1,4 +1,4 @@
-package frc.lightning.commands;
+package lightning.commands;
 
 import edu.wpi.first.wpilibj2.command.Command;
 import edu.wpi.first.wpilibj2.command.CommandBase;

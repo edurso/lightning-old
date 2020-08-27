@@ -1,12 +1,12 @@
-package frc.lightning.commands;
+package lightning.commands;
 
 import java.util.function.DoubleSupplier;
 
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import edu.wpi.first.wpilibj2.command.CommandBase;
-import frc.lightning.subsystems.LightningDrivetrain;
-import frc.lightning.util.JoystickFilter;
-import frc.robot.Constants;
+import lightning.subsystems.LightningDrivetrain;
+import lightning.util.JoystickFilter;
+import robot.Constants;
 
 public class VoltDrive extends CommandBase {
 

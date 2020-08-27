@@ -5,7 +5,7 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package frc.lightning.util;
+package lightning.util;
 
 import edu.wpi.first.wpilibj.util.Units;
 

@@ -1,7 +1,7 @@
-package frc.lightning.util;
+package lightning.util;
 
 import edu.wpi.first.wpilibj.util.Units;
-import frc.robot.Constants;
+import robot.Constants;
 
 public class LightningMath {
     public static double wheelCircumference =  Constants.WHEEL_DIAMETER_INCHES * Math.PI;

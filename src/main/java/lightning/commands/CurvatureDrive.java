@@ -1,7 +1,7 @@
-package frc.lightning.commands;
+package lightning.commands;
 
 import edu.wpi.first.wpiutil.math.MathUtil;
-import frc.lightning.subsystems.LightningDrivetrain;
+import lightning.subsystems.LightningDrivetrain;
 
 public class CurvatureDrive {
     public static final double kDefaultQuickStopThreshold = 0.2;

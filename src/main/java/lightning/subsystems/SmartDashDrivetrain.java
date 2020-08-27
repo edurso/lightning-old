@@ -1,4 +1,4 @@
-package frc.lightning.subsystems;
+package lightning.subsystems;
 
 import edu.wpi.first.wpilibj.shuffleboard.BuiltInWidgets;
 import edu.wpi.first.wpilibj.shuffleboard.Shuffleboard;

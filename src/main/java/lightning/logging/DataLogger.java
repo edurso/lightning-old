@@ -1,4 +1,4 @@
-package frc.lightning.logging;
+package lightning.logging;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
 
 import edu.wpi.first.wpilibj.DriverStation;
 import edu.wpi.first.wpilibj.Timer;
-import frc.lightning.util.Loop;
+import lightning.util.Loop;
 
 public class DataLogger implements Loop {
     private static final int max_lines = 15000;

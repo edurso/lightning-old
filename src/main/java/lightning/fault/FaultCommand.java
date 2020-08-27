@@ -1,4 +1,4 @@
-package frc.lightning.fault;
+package lightning.fault;
 
 import edu.wpi.first.wpilibj2.command.InstantCommand;
 
